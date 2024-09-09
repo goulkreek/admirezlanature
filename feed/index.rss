@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Admirez la Nature</title>
+	<atom:link href="https://admirezlanature.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://admirezlanature.com/</link>
+	<description>Séjournez différemment</description>
+	<lastBuildDate>Wed, 24 May 2023 08:24:09 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://admirezlanature.com/wp-content/uploads/2022/02/cropped-logo-aln-05-1-32x32.png</url>
+	<title>Admirez la Nature</title>
+	<link>https://admirezlanature.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache objet de 22/33 objets utilisant redis
+Mise en cache de page à l’aide de disk: enhanced (Page is feed) 
+Mise en cache de la base de données utilisant redis  (Request-wide modification query)
+
+Served from: admirezlanature.com @ 2023-08-20 17:35:08 by W3 Total Cache
+-->
